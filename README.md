@@ -26,8 +26,9 @@ use `git status` to list all
     ''''
   </p>
   </details>
+  
 | Rank | THING-TO-RANK |
 |-----:|---------------|
-|     1|               |
-|     2|               |
-|     3|               |
+|     1|     hhh       |
+|     2|      hghgh    |
+|     3|     fff       |
